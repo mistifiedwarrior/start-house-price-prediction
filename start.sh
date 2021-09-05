@@ -1,5 +1,5 @@
 #!/bin/bash
 
-open index.html
+start index.html
 cd ml || exit
-python3 main.py
+py main.py
