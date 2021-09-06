@@ -2,4 +2,5 @@
 
 start index.html
 cd ml || exit
-py main.py
+python main.py
+
