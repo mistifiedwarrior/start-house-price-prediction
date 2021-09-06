@@ -8,7 +8,7 @@ echo "Installing dependencies..."
 npm install &> /dev/null
 echo "Start building..."
 npm run build &> /dev/null
-mv build/* .
+mv build/* ..
 
 cd ..
 echo "cloning ML model"
